@@ -39,7 +39,7 @@
   "repository": "googlecloudplatform/google-cloud-node",
   "dependencies": {
     "@google-cloud/common": "^0.13.0",
-    "dot-prop": "^2.4.0",
+    "dot-prop": "^6.0.0",
     "duplexify": "^3.5.0",
     "extend": "^3.0.0",
     "google-proto-files": "^0.11.0",
